@@ -30,6 +30,11 @@ function seculoAno($ano){
 
 }
 
+//seculoAno(2022)
+//seculoAno(1945)
+//seculoAno(22)
+//seculoAno(100)
+
 seculoAno(728);
 
 
