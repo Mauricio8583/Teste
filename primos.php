@@ -31,6 +31,11 @@ function primos($inicial, $final){
 
 }
 
+//primos(20,10)
+//primos(20,40)
+//primos(3,12)
+//primos(50,70)
+
 primos(5,10);
 
 
